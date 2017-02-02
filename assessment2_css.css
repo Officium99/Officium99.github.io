@@ -1,0 +1,33 @@
+.paragraph1 {
+    text-align:center;
+    color:red;
+    border-style:solid;
+    border-color:blue;
+    border-width:5px;
+}
+
+#paragraph2 {
+    text-align:left;
+    color:white;
+    background-color:black;
+    border-style:solid;
+    border-color:red;
+    border-radius: 40px; 
+}
+
+.paragraph3 {
+    font-family:"Impact", "Charcoal", sans-serif
+}
+
+a:link {
+    color:blue;
+    text-decoration:none;
+}
+
+a:hover {
+    color:orange;  
+}
+
+a:visited {
+    color:green;
+}
