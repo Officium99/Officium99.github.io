@@ -1,0 +1,137 @@
+.header {
+    text-align:left:
+    font-family: monospace;
+    font-size:25px;
+    font-weight:bold;
+    border-style:hidden;
+    background-color:lightgrey;
+    display: block;
+    margin: 0px;
+    
+}
+#references {
+    text-align:left:
+    font-family: monospace;
+    font-size:25px;
+    font-weight:bold;
+    border-style:hidden;
+    background-color:lightgrey;
+    display: block;
+    margin: 0px;
+}
+.job_title {
+    font-weight:bold;
+    font-size:18px;
+}
+.job_desc {
+    display:none;
+}
+.image {
+    width:300px;
+    height:250px;
+    float:none;
+    padding:0px;
+    display:block
+    
+}
+.button {
+    background-color: Green;
+    color:black;
+    border: 1px solid green;
+    padding:15px 32px;
+    text-align:center;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 8px;    
+}
+.button:hover {
+    background-color: #3e8e41;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    
+}
+.button:active {
+    background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.button2 {
+    background-color: Green;
+    color:black;
+    border: 1px solid green;
+    padding:15px 32px;
+    text-align:center;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 8px;
+}
+.button2:hover {
+     background-color: #3e8e41;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.button2:active {
+     background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.button3 {
+    background-color: Green;
+    color:black;
+    border: 1px solid green;
+    padding:15px 32px;
+    text-align:center;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 8px;
+}
+.button3:hover {
+     background-color: #3e8e41;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.button3:active {
+     background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+#person1 {
+    font-weight:bold;
+    font-size:18px;
+    padding:5px;
+    margin:0px;
+}
+#person2 {
+    font-weight:bold;
+    font-size:18px;
+    padding:5px;
+    margin:0px;
+}
+#person3 {
+    font-weight:bold;
+    font-size:18px;
+    padding:5px;
+    margin:0px;
+}
+#people_information {
+    font-size:15px;
+    font-style:italic;
+    text-decoration:underline;
+    margin:none;
+    padding:none;
+    border:none;
+}
+.notes{
+    font-size:15px;
+    font-style:italic;
+    text-decoration:none;
+    margin:none;
+    padding:none;
+    border:none;
+}
+a:link {
+    color:black;
+    text-decoration: none;  
+}
+a:hover {
+    color:orange;
+}
+
+
